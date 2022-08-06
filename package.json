@@ -1,0 +1,14 @@
+{
+  "name": "vending-machine",
+  "version": "1.0.0",
+  "description": "vending machine exam",
+  "main": "Wallet.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "author": "Cedric Legarda",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
